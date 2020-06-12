@@ -1,0 +1,23 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+*{
+	font-family: 'Jua', sans-serif;
+}
+.my-bg{
+	background-color:#84a9ac;
+}
+.bg-yellow{
+	background-color: yellow;
+}
+.myborder{
+	border : 1px solid #e7dfd5;
+}
+.mycenter{
+	text-align: center;
+}
+.myright{
+	text-align: right;
+}
+.myheightcenter{
+	line-height: 50px;
+}
